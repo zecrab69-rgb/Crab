@@ -1,0 +1,7 @@
+{
+  "name": "Raconte moi une balade ",
+  "description": "Fais de ta journée une histoire ",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
